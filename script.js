@@ -9,7 +9,7 @@
 
 var url = document.getElementsByClassName("domain")[0].innerHTML;
 if(/\bup\b/.test(document.getElementById("container").innerHTML)) {
-//  alert("The site is back up. Press OK to continue.");
+  alert("The site is back up.");
   window.location.href = url;
 }
 setTimeout(function() { document.location.reload(); } ,4000);
