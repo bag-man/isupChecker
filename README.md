@@ -7,3 +7,5 @@ Simply go to http://isup.me/www.websitethatsdown.com and isup.me will test if th
 When the site comes back online it will redirect you to the website.
 
 Enjoy!
+
+http://userscripts.org/scripts/show/104110
